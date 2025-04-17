@@ -1,1 +1,1 @@
-# Grace_Downsacling
+# Downscaling GRACE Data to 10 km
