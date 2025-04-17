@@ -1,1 +1,1 @@
-# Downscaling GRACE Data to 10 km
+# Downscaling GRACE Data to Monthly 10 km Resolution
