@@ -1,4 +1,4 @@
-# Downscaling GRACE Data to Monthly 10 km Resolution
+# Spatial Downscaling
 
 This repository contains code for processing GRACE data and various hydrological variables (precipitation, evaporation, land and air temperature, NDVI, humidity, runoff) and utilizing Random Forest techniques to improve the spatial resolution of GRACE data from 55 km to 10 km.
 
