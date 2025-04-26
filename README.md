@@ -1,6 +1,21 @@
 # Spatial Downscaling of GRACE Data using Google Earth Engine & Python
+This repository contains code for processing GRACE (Gravity Recovery and Climate Experiment) satellite data along with various hydrological and environmental variables, including:
 
-This repository contains code for processing GRACE data and various hydrological variables (precipitation, evaporation, land and air temperature, NDVI, humidity, runoff) and utilizing Random Forest techniques to improve the spatial resolution of GRACE data from 55 km to 10 km.
+Precipitation
+
+Evaporation
+
+Land Surface Temperature (LST)
+
+Air Temperature
+
+NDVI (Normalized Difference Vegetation Index)
+
+Humidity
+
+Runoff
+
+The objective of this project is to improve the spatial resolution of GRACE data from ~55 km to ~10 km using Random Forest machine learning techniques.
 
 
 
