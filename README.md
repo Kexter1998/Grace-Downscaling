@@ -15,4 +15,4 @@ Python libraries: scikit-learn, pandas, numpy, matplotlib
 
 ## 📸 Example Outputs
 
-![image alt](https://github.com/SaeidDaliriSusefi/Grace-Downsacling/blob/8882879c1281898ca6462542a7d324b39b9c4c6d/Images/Grace_.png)
+![image alt](https://github.com/SaeidDaliriSusefi/Grace-Downsacling/blob/a107c722865f951efb818a0134ccf0fc889ad6df/Images/Grace.png)
